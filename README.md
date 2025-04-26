@@ -2,6 +2,7 @@
 
 ### 0. 개요
   본 프로젝트에서는 AI 학습용 대규모 데이터를 구축하고 검증하기 위해 사용한 Pose Estimation 모델을 구현하였다.
+  
   프로젝트를 통해 구축된 데이터는 [링크](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=551) 에서 확인할 수 있다.
 
   해당 데이터는 기존 데이터와 달리 RGB, Depth Map, Segmentation Map, 3D Cube, 3D Point Cloud를 모두 제공한다.
